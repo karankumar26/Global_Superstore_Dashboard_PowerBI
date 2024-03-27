@@ -57,6 +57,9 @@ A company wants to gain insights into its sales performance and key metrics to i
 
 ![image](https://github.com/karankumar26/Global_Superstore_Dashboard_PowerBI/assets/147133944/10bf71f8-9f9b-4c8e-958b-9134e46189dd)
 
+## Conclusion
+This visualization file showcases the actionable insights into various aspects of the company's operations, enabling informed decision-making to drive growth and profitability.
+
 
 ### 5.	Regional Sales Patterns:
 -	The Map Plot visualizes sales per Region, enabling geographic analysis and identification of regions with high or low sales performance, helping in strategic allocation of resources and marketing efforts.
